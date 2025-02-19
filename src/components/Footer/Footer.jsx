@@ -77,5 +77,5 @@ function Footer() {
  
   )
 }
-
+ Footer
 export default Footer
